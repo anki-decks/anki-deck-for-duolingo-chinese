@@ -39,3 +39,8 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 - Add pronunciation audio files
 - Fix all of the content problems
 - Once this is done, I will push the deck to the Anki shared decks
+- In parallel, implement a web page that shows the list in a nice way, for people who just want to see the list on the web
+
+# Thanks
+
+Huge thanks to Anish for creating the words list.
