@@ -2,7 +2,7 @@
 
 Anki is a natural companion to Duolingo. Duolingo is good at introducing new concepts and words, and Anki is going at making you actually remember them.
 
-1. Download the apkg file.
+1. [Download the apkg file](https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/blob/master/Chinese%20Duolingo%20for%20English%20speakers.apkg).
 2. Open it in AnkiDroid, AnkiMobile, or Anki Desktop.
 3. Each day after using Duolingo, use Anki.
 
@@ -16,9 +16,9 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 4. [Fork](https://help.github.com/articles/fork-a-repo/) this [repository](https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese).
 5. [Clone](https://help.github.com/articles/cloning-a-repository/#cloning-a-repository-to-github-desktop) your forked repository. Be sure to clone YOUR own repository (with your name in the URL), not ours.
 6. Find the `words.tsv` and open it with a spreasheet program such as LibreOffice (free).
-7. Fix stuff (see rules below).
+7. Fix stuff (see rules below) and save the file.
 8. Within that folder that you created, put all of the screenshots.
-9. [Select and commit the files](https://help.github.com/desktop/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project/#2-selecting-changes-to-include-in-a-commit), then push.
+9. [Commit the TSV file](https://help.github.com/desktop/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project/#2-selecting-changes-to-include-in-a-commit), then push.
 10. Go to https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/pulls and click the button "New pull request", then submit the pull request to us ([tutorial about pull requests](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
 11. We will review your contribution, merge it into our repository, and re-generate the apkg file. Thanks! :-)
 
@@ -32,4 +32,10 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 ## Content
 
 - Most English definitions needs to be simplified. The meanings that are not used in Duolingo should be removed. For instance, if `三`'s definition is `surname San<br /><br />three  / 3`, then it should be simplified to just "three".
-- The note for `加拿大` is very useful, but I think we don't need the individual character notes `加`, `拿`, `大`, so these ones can be deleted.
+- The line for `加拿大` is very useful, but I think we don't need the individual character notes `加`, `拿`, `大`, so these ones can be deleted.
+
+# TODO
+
+- Add pronunciation audio files
+- Fix all of the content problems
+- Once this is done, I will push the deck to the Anki shared decks
