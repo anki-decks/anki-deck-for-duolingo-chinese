@@ -2,7 +2,7 @@ _If you just want the words list, [here it is](https://github.com/nicolas-raoul/
 
 # Anki deck for Duolingo Chinese
 
-Anki is a natural companion to Duolingo. Duolingo is good at introducing new concepts and words, while Anki is good at making you actually remember them.
+Anki is a natural companion to Duolingo. Duolingo is good at introducing new grammar concepts and words, while Anki is good at making you actually remember them.
 
 1. [Download the apkg file](https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/blob/master/Chinese%20Duolingo%20for%20English%20speakers.apkg).
 2. Open it in AnkiDroid, AnkiMobile, or Anki Desktop.
