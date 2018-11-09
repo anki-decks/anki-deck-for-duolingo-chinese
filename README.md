@@ -33,8 +33,8 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 
 ## Content
 
-- Most English definitions needs to be simplified. The meanings that are not used in Duolingo should be removed. For instance, if `三`'s definition is `surname San<br /><br />three  / 3`, then it should be simplified to just "three".
-- The line for `加拿大` is very useful, but I think we don't need the individual character notes `加`, `拿`, `大`, so these ones can be deleted.
+- Most English definitions need to be simplified. The meanings that are not used in Duolingo should be removed. For instance, if `三`'s definition is `surname San<br /><br />three  / 3`, then it should be simplified to just "three".
+- An Anki card asking for the English meaning of `加拿大` is great, but an Anki card asking for the English meaning of `加`, `拿`, and `大` are not needed because they are not words that a beginner needs to know separately. Let's mark such notes with the label `no-meaning`.
 
 # TODO
 
