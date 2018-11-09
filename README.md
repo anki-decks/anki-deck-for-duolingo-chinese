@@ -1,3 +1,5 @@
+_If you just want the words list, [here it is](https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/blob/master/words.tsv)._
+
 # Anki deck for Duolingo Chinese
 
 Anki is a natural companion to Duolingo. Duolingo is good at introducing new concepts and words, and Anki is going at making you actually remember them.
