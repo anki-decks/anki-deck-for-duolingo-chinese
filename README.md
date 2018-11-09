@@ -32,12 +32,14 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 ## Content
 
 - Most English definitions needs to be simplified. The meanings that are not used in Duolingo should be removed. For instance, if `三`'s definition is `surname San<br /><br />three  / 3`, then it should be simplified to just "three".
-- The line for `加拿大` is very useful, but I think we don't need the individual character notes `加`, `拿`, `大`, so these ones can be deleted.
+- The line for `加拿大` is very useful, but I think we don't need the individual character notes `加`, `拿`, `大`, so these ones can be deleted (or indicate that it is "sound-only" in a new column? then I could create different Anki cards for them).
 
 # TODO
 
-- Add pronunciation audio files
+- Add lesson number and name to each line
 - Fix all of the content problems
+- Put all pinyin on the same line, remove rare ones
+- Add a pronunciation audio file to each line
 - Once this is done, I will push the deck to the Anki shared decks
 - In parallel, implement a web page that shows the list in a nice way, for people who just want to see the list on the web
 
