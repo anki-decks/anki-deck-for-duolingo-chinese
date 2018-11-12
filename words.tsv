@@ -41,49 +41,48 @@ Greeting 2	认识	認識	rèn shi		to know
 Greeting 2	也		yě		too		
 Greeting 2	认	認	rèn				Meaning off-topic
 Greeting 2	识	識	shí   zhì				Meaning off-topic
-Food 1	吃		chī	chī	to eat / to consume / to eat at (a cafeteria etc) / to eradicate / to destroy / to absorb / to suffer / to stammer (Taiwan pr. for this sense is [ji2])	to eat / to consume / to eat at (a cafeteria etc) / to eradicate / to destroy / to absorb / to suffer / to stammer (Taiwan pr. for this sense is [ji2])	
-Food 1	饭	飯	fàn	fàn	food / cuisine / cooked rice / meal / CL: 碗, 頓｜顿	food / cuisine / cooked rice / meal / CL: 碗, 頓｜顿	
-Food 1	鱼	魚	Yú   yú	Yú   yú	surname Yu  fish / CL: 條｜条, 尾	surname Yu  fish / CL: 條｜条, 尾	
-Food 1	面		miàn   miàn	miàn   miàn	face / side / surface / aspect / top / classifier for flat surfaces such as drums, mirrors, flags etc  flour / noodles / (of food) soft (not crunchy) / (slang) (of a person) ineffectual / spineless	face / side / surface / aspect / top / classifier for flat surfaces such as drums, mirrors, flags etc  flour / noodles / (of food) soft (not crunchy) / (slang) (of a person) ineffectual / spineless	
-Food 1	喝		hē   hè	hē   hè	to drink / My goodness!  to shout loudly	to drink / My goodness!  to shout loudly	
-Food 1	水		Shuǐ   shuǐ	Shuǐ   shuǐ	surname Shui  water / river / liquid / beverage / additional charges or income / (of clothes) classifier for number of washes	surname Shui  water / river / liquid / beverage / additional charges or income / (of clothes) classifier for number of washes	
-Food 1	茶		chá	chá	tea / tea plant / CL: 杯, 壺｜壶	tea / tea plant / CL: 杯, 壺｜壶	
-Food 1	不		bù	bù	(negative prefix) / not / no	(negative prefix) / not / no	
-Occupation	是		shì	shì	is / are / am / yes / to be	is / are / am / yes / to be	
-Occupation	他		tā	tā	he or him / (used for either sex when the sex is unknown or unimportant) / (used before sb's name for emphasis) / (used as a meaningless mock object) / other / another	he or him / (used for either sex when the sex is unknown or unimportant) / (used before sb's name for emphasis) / (used as a meaningless mock object) / other / another	
-Occupation	学生	學生	xué sheng	xué sheng	student / schoolchild	student / schoolchild	
-Occupation	学	學	xué	xué	to learn / to study / to imitate / science / -ology	to learn / to study / to imitate / science / -ology	
-Occupation	生		shēng	shēng	to be born / to give birth / life / to grow / raw / uncooked / student	to be born / to give birth / life / to grow / raw / uncooked / student	
-Occupation	吗	嗎	mǎ   ma	mǎ   ma	see 嗎啡｜吗啡, morphine  (question particle for 'yes-no' questions)	see 嗎啡｜吗啡, morphine  (question particle for 'yes-no' questions)	
+Food 1	吃		chī	chī	to eat	to eat / to consume / to eat at (a cafeteria etc) / to eradicate / to destroy / to absorb / to suffer / to stammer (Taiwan pr. for this sense is [ji2])	
+Food 1	饭	飯	fàn	fàn	food	food / cuisine / cooked rice / meal / CL: 碗, 頓｜顿	
+Food 1	鱼	魚	yú	Yú   yú	fish	surname Yu  fish / CL: 條｜条, 尾	
+Food 1	面		miàn	miàn   miàn	noodles	face / side / surface / aspect / top / classifier for flat surfaces such as drums, mirrors, flags etc  flour / noodles / (of food) soft (not crunchy) / (slang) (of a person) ineffectual / spineless	
+Food 1	喝		hē	hē   hè	to drink	to drink / My goodness!  to shout loudly	
+Food 1	水		shuǐ	Shuǐ   shuǐ	water	surname Shui  water / river / liquid / beverage / additional charges or income / (of clothes) classifier for number of washes	
+Food 1	茶		chá	chá	tea	tea / tea plant / CL: 杯, 壺｜壶	
+Food 1	不		bù	bù	not	(negative prefix) / not / no	
+Occupation	是		shì	shì	to be	is / are / am / yes / to be	
+Occupation	他		tā	tā	he	he or him / (used for either sex when the sex is unknown or unimportant) / (used before sb's name for emphasis) / (used as a meaningless mock object) / other / another	
+Occupation	学生	學生	xué sheng	xué sheng	student	student / schoolchild	
+Occupation	学	學	xué	xué	to learn	to learn / to study / to imitate / science / -ology	
+Occupation	生		shēng	shēng		to be born / to give birth / life / to grow / raw / uncooked / student	Meaning off-topic
+Occupation	吗	嗎	mǎ	mǎ   ma	question particle for 'yes-no' questions	see 嗎啡｜吗啡, morphine  (question particle for 'yes-no' questions)	
 Occupation	她		tā	tā	she	she	
 Occupation	你们	你們	nǐ men	nǐ men	you (plural)	you (plural)	
-Occupation	我们	我們	wǒ men	wǒ men	we / us / ourselves / our	we / us / ourselves / our	
+Occupation	我们	我們	wǒ men	wǒ men	we	we / us / ourselves / our	
 Occupation	他们	他們	tā men	tā men	they	they	
-Occupation	们	們	men	men	plural marker for pronouns, and nouns referring to individuals	plural marker for pronouns, and nouns referring to individuals	
-Occupation	老师	老師	lǎo shī	lǎo shī	teacher / CL: 個｜个, 位	teacher / CL: 個｜个, 位	
-Occupation	医生	醫生	yī shēng	yī shēng	doctor / CL: 個｜个, 位, 名	doctor / CL: 個｜个, 位, 名	
-Occupation	她们	她們	tā men	tā men	they / them (for females)	they / them (for females)	
-Occupation	老		lǎo	lǎo	prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity / old (of people) / venerable (person) / experienced / of long standing / always / all the time / of the past / very / outdated / (of meat etc) tough	prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity / old (of people) / venerable (person) / experienced / of long standing / always / all the time / of the past / very / outdated / (of meat etc) tough	
-Occupation	师	師	Shī   shī	Shī   shī	surname Shi  teacher / master / expert / model / army division / (old) troops / to dispatch troops	surname Shi  teacher / master / expert / model / army division / (old) troops / to dispatch troops	
-Occupation	医	醫	yī	yī	medical / medicine / doctor / to cure / to treat	medical / medicine / doctor / to cure / to treat	
-Contact	的		de   dī   dí   dì	de   dī   dí   dì	of / ~'s (possessive particle) / (used after an attribute) / (used to form a nominal expression) / (used at the end of a declarative sentence for emphasis)  see 的士  really and truly  aim / clear	of / ~'s (possessive particle) / (used after an attribute) / (used to form a nominal expression) / (used at the end of a declarative sentence for emphasis)  see 的士  really and truly  aim / clear	
-Contact	电话	電話	diàn huà	diàn huà	telephone / CL: 部 / phone call / CL: 通 / phone number	telephone / CL: 部 / phone call / CL: 通 / phone number	
-Contact	电	電	diàn	diàn	electric / electricity / electrical	electric / electricity / electrical	
-Contact	话	話	huà	huà	dialect / language / spoken words / speech / talk / words / conversation / what sb said / CL: 種｜种, 席, 句, 口, 番	dialect / language / spoken words / speech / talk / words / conversation / what sb said / CL: 種｜种, 席, 句, 口, 番	
-Contact	号码	號碼	hào mǎ	hào mǎ	number / CL: 堆, 個｜个	number / CL: 堆, 個｜个	
-Contact	多少		duō shǎo   duō shao	duō shǎo   duō shao	number / amount / somewhat  how much / how many / which (number) / as much as	number / amount / somewhat  how much / how many / which (number) / as much as	
-Contact	多		duō	duō	many / much / often / a lot of / numerous / more / in excess / how (to what extent) / multi- / Taiwan pr. [duo2] when it means 'how'	many / much / often / a lot of / numerous / more / in excess / how (to what extent) / multi- / Taiwan pr. [duo2] when it means 'how'	
-Contact	少		shǎo   shào	shǎo   shào	few / less / to lack / to be missing / to stop (doing sth) / seldom  young	few / less / to lack / to be missing / to stop (doing sth) / seldom  young	
-Contact	号	號	háo   hào	háo   hào	roar / cry / CL: 個｜个  ordinal number / day of a month / mark / sign / business establishment / size / ship suffix / horn (wind instrument) / bugle call / assumed name / to take a pulse / classifier used to indicate number of people	roar / cry / CL: 個｜个  ordinal number / day of a month / mark / sign / business establishment / size / ship suffix / horn (wind instrument) / bugle call / assumed name / to take a pulse / classifier used to indicate number of people	
-Contact	码	碼	mǎ	mǎ	weight / number / code / to pile / to stack / classifier for length or distance (yard), happenings etc	weight / number / code / to pile / to stack / classifier for length or distance (yard), happenings etc	
+Occupation	们	們	men	men	plural marker for pronouns	plural marker for pronouns, and nouns referring to individuals	
+Occupation	老师	老師	lǎo shī	lǎo shī	teacher	teacher / CL: 個｜个, 位	
+Occupation	医生	醫生	yī shēng	yī shēng	doctor	doctor / CL: 個｜个, 位, 名	
+Occupation	她们	她們	tā men	tā men	they (females)	they / them (for females)	
+Occupation	老		lǎo	lǎo		prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity / old (of people) / venerable (person) / experienced / of long standing / always / all the time / of the past / very / outdated / (of meat etc) tough	Meaning off-topic
+Occupation	师	師	Shī   shī	Shī   shī		surname Shi  teacher / master / expert / model / army division / (old) troops / to dispatch troops	Meaning off-topic
+Occupation	医	醫	yī	yī		medical / medicine / doctor / to cure / to treat	Meaning off-topic
+Contact	的		de	de   dī   dí   dì	of	of / ~'s (possessive particle) / (used after an attribute) / (used to form a nominal expression) / (used at the end of a declarative sentence for emphasis)  see 的士  really and truly  aim / clear	
+Contact	电话	電話	diàn huà	diàn huà	telephone	telephone / CL: 部 / phone call / CL: 通 / phone number	
+Contact	电	電	diàn	diàn	electricity	electric / electricity / electrical	
+Contact	话	話	huà	huà	language	dialect / language / spoken words / speech / talk / words / conversation / what sb said / CL: 種｜种, 席, 句, 口, 番	
+Contact	号码	號碼	hào mǎ	hào mǎ	number	number / CL: 堆, 個｜个	
+Contact	多少		duō shǎo	duō shǎo   duō shao	how many	number / amount / somewhat  how much / how many / which (number) / as much as	
+Contact	多		duō	duō	many	many / much / often / a lot of / numerous / more / in excess / how (to what extent) / multi- / Taiwan pr. [duo2] when it means 'how'	
+Contact	少		shǎo	shǎo   shào	few	few / less / to lack / to be missing / to stop (doing sth) / seldom  young	
+Contact	号	號	háo   hào	háo   hào		roar / cry / CL: 個｜个  ordinal number / day of a month / mark / sign / business establishment / size / ship suffix / horn (wind instrument) / bugle call / assumed name / to take a pulse / classifier used to indicate number of people	Meaning off-topic
+Contact	码	碼	mǎ	mǎ		weight / number / code / to pile / to stack / classifier for length or distance (yard), happenings etc	Meaning off-topic
 Nation	中国	中國	Zhōng guó	Zhōng guó	China	China	
-Nation	人		rén	rén	man / person / people / CL: 個｜个, 位	man / person / people / CL: 個｜个, 位	
-Nation	中		Zhōng   zhōng   zhòng	Zhōng   zhōng   zhòng	China / Chinese / surname Zhong  within / among / in / middle / center / while (doing sth) / during / (dialect) OK / all right  to hit (the mark) / to be hit by / to suffer / to win (a prize, a lottery)	China / Chinese / surname Zhong  within / among / in / middle / center / while (doing sth) / during / (dialect) OK / all right  to hit (the mark) / to be hit by / to suffer / to win (a prize, a lottery)	
-Nation	国	國	Guó   guó	Guó   guó	surname Guo  country / nation / state / national / CL: 個｜个	surname Guo  country / nation / state / national / CL: 個｜个	
-Nation	哪		nǎ   na   něi	nǎ   na   něi	how / which  (particle equivalent to 啊 after noun ending in -n)  which? (interrogative, followed by classifier or numeral-classifier)	how / which  (particle equivalent to 啊 after noun ending in -n)  which? (interrogative, followed by classifier or numeral-classifier)	
-Nation	英国	英國	Yīng guó	Yīng guó	United Kingdom 聯合王國｜联合王国 / United Kingdom of Great Britain and Northern Ireland / abbr. for England 英格蘭｜英格兰	United Kingdom 聯合王國｜联合王国 / United Kingdom of Great Britain and Northern Ireland / abbr. for England 英格蘭｜英格兰	
-Nation	美国	美國	Měi guó	Měi guó	United States / USA / US	United States / USA / US	
-Nation	国	國	Guó   guó	Guó   guó	surname Guo  country / nation / state / national / CL: 個｜个	surname Guo  country / nation / state / national / CL: 個｜个	
+Nation	人		rén	rén	person	man / person / people / CL: 個｜个, 位	
+Nation	中		zhōng	Zhōng   zhōng   zhòng	middle	China / Chinese / surname Zhong  within / among / in / middle / center / while (doing sth) / during / (dialect) OK / all right  to hit (the mark) / to be hit by / to suffer / to win (a prize, a lottery)	
+Nation	国	國	guó	Guó   guó	country	surname Guo  country / nation / state / national / CL: 個｜个	
+Nation	哪		nǎ	nǎ   na   něi	how / which	how / which  (particle equivalent to 啊 after noun ending in -n)  which? (interrogative, followed by classifier or numeral-classifier)	
+Nation	英国	英國	Yīng guó	Yīng guó	United Kingdom	United Kingdom 聯合王國｜联合王国 / United Kingdom of Great Britain and Northern Ireland / abbr. for England 英格蘭｜英格兰	
+Nation	美国	美國	Měi guó	Měi guó	USA	United States / USA / US	
 Nation	英		Yīng   yīng	Yīng   yīng	United Kingdom / British / England / English / abbr. for 英國｜英国  hero / outstanding / excellent / (literary) flower / blossom	United Kingdom / British / England / English / abbr. for 英國｜英国  hero / outstanding / excellent / (literary) flower / blossom	
 Nation	美		Měi   měi	Měi   měi	the Americas / abbr. for 美洲 / USA / abbr. for 美國｜美国  beautiful / very satisfactory / good / to beautify / to be pleased with oneself	the Americas / abbr. for 美洲 / USA / abbr. for 美國｜美国  beautiful / very satisfactory / good / to beautify / to be pleased with oneself	
 Nation	都		Dū   dōu   dū	Dū   dōu   dū	surname Du  all / both / entirely / (used for emphasis) even / already / (not) at all  capital city / metropolis	surname Du  all / both / entirely / (used for emphasis) even / already / (not) at all  capital city / metropolis	
