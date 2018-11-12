@@ -1,6 +1,8 @@
+_If you just want the words list, [here it is](https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/blob/master/words.tsv)._
+
 # Anki deck for Duolingo Chinese
 
-Anki is a natural companion to Duolingo. Duolingo is good at introducing new concepts and words, and Anki is going at making you actually remember them.
+Anki is a natural companion to Duolingo. Duolingo is good at introducing new grammar concepts and words, while Anki is good at making you actually remember them.
 
 1. [Download the apkg file](https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/blob/master/Chinese%20Duolingo%20for%20English%20speakers.apkg).
 2. Open it in AnkiDroid, AnkiMobile, or Anki Desktop.
@@ -31,13 +33,15 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 
 ## Content
 
-- Most English definitions needs to be simplified. The meanings that are not used in Duolingo should be removed. For instance, if `三`'s definition is `surname San<br /><br />three  / 3`, then it should be simplified to just "three".
-- The line for `加拿大` is very useful, but I think we don't need the individual character notes `加`, `拿`, `大`, so these ones can be deleted.
+- Most English definitions need to be simplified. The meanings that are not used in Duolingo should be removed. For instance, if `三`'s definition is `surname San<br /><br />three  / 3`, then it should be simplified to just "three".
+- An Anki card asking for the English meaning of `加拿大` is great, but an Anki card asking for the English meaning of `加`, `拿`, and `大` are not needed because they are not words that a beginner needs to know separately. Let's mark such notes with the label `no-meaning`.
 
 # TODO
 
-- Add pronunciation audio files
+- Add lesson number and name to each line
 - Fix all of the content problems
+- Put all pinyin on the same line, remove rare ones
+- Add a pronunciation audio file to each line
 - Once this is done, I will push the deck to the Anki shared decks
 - In parallel, implement a web page that shows the list in a nice way, for people who just want to see the list on the web
 
