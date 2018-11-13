@@ -18,32 +18,16 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 4. [Fork](https://help.github.com/articles/fork-a-repo/) this [repository](https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese).
 5. [Clone](https://help.github.com/articles/cloning-a-repository/#cloning-a-repository-to-github-desktop) your forked repository. Be sure to clone YOUR own repository (with your name in the URL), not ours.
 6. Find the `words.tsv` and open it with a spreasheet program such as LibreOffice (free).
-7. Fix stuff (see rules below) and save the file.
-8. Within that folder that you created, put all of the screenshots.
-9. [Commit the TSV file](https://help.github.com/desktop/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project/#2-selecting-changes-to-include-in-a-commit), then push.
-10. Go to https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/pulls and click the button "New pull request", then submit the pull request to us ([tutorial about pull requests](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
-11. We will review your contribution, merge it into our repository, and re-generate the apkg file. Thanks! :-)
+7. [Choose a content issue](https://github.com/anki-decks/anki-deck-for-duolingo-chinese/issues?q=is%3Aissue+is%3Aopen+label%3Acontent), fix it, and save the file.
+8. [Commit the TSV file](https://help.github.com/desktop/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project/#2-selecting-changes-to-include-in-a-commit), then push.
+9. Go to https://github.com/nicolas-raoul/anki-deck-for-duolingo-chinese/pulls and click the button "New pull request", then submit the pull request to us ([tutorial about pull requests](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
+10. We will review your contribution, merge it into our repository, and re-generate the apkg file. Thanks! :-)
 
-# Guidelines
+# Copyright guidelines
 
-## Copyright
-
-- This deck contains only words, not sentences. The reason is that sentence can be considered as intellectual property, whereas a list of words can not. So, please do not add sentences from Duolingo or from elsewhere.
+- This deck contains only words, not sentences. The reason is that sentences can be considered as intellectual property, whereas a list of words can not. So, please do not add sentences from Duolingo or from elsewhere.
 - Do not copy English translations from any other source (and especially, not from Duolingo). Just simplify or fix the existing definitions.
-
-## Content
-
-- Most English definitions need to be simplified. The meanings that are not used in Duolingo should be removed. For instance, if `三`'s definition is `surname San<br /><br />three  / 3`, then it should be simplified to just "three".
-- An Anki card asking for the English meaning of `加拿大` is great, but an Anki card asking for the English meaning of `加`, `拿`, and `大` are not needed because they are not words that a beginner needs to know separately. Let's mark such notes with the label `no-meaning`.
-
-# TODO
-
-- Add lesson number and name to each line
-- Fix all of the content problems
-- Put all pinyin on the same line, remove rare ones
-- Add a pronunciation audio file to each line
-- Once this is done, I will push the deck to the Anki shared decks
-- In parallel, implement a web page that shows the list in a nice way, for people who just want to see the list on the web
+- Before you add anything to the TSV file, ask yourself whether it is open data or not, and make it clear in your commit message.
 
 # Thanks
 
