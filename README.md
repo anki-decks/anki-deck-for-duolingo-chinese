@@ -2,15 +2,15 @@ _If you just want the words list, [here it is](https://github.com/anki-decks/ank
 
 # Anki deck for Duolingo Chinese
 
-Anki is a natural companion to Duolingo. Duolingo is good at introducing new grammar concepts and words, while Anki is good at making you actually remember them.
+Anki is a natural companion to Duolingo. Duolingo is good at introducing new grammar concepts and words, while Anki is good at making you remember them. Anki opens in less than a second, has no advertisements, works offline, is customizable, and only quizzes you on a word when you are about to forget it.
 
-1. [Download the apkg file](https://github.com/anki-decks/anki-deck-for-duolingo-chinese/blob/master/Chinese%20Duolingo%20for%20English%20speakers.apkg).
+1. [Download the Anki apkg file](https://github.com/anki-decks/anki-deck-for-duolingo-chinese/blob/master/Chinese%20Duolingo%20for%20English%20speakers.apkg).
 2. Open it in AnkiDroid, AnkiMobile, or Anki Desktop.
 3. Each day after using Duolingo, use Anki.
 
 # Help us fix mistakes
 
-The deck contains many mistakes, there is a lot of room for improvement. The good news: You can help. Here is how to do.
+The deck contains mistakes, there is a lot of room for improvement. The good news: You can help. Here is how to do.
 
 1. Find a desktop computer.
 2. Create a [Github](https://github.com) account if you don't have one already.
@@ -23,7 +23,7 @@ The deck contains many mistakes, there is a lot of room for improvement. The goo
 9. Go to https://github.com/anki-decks/anki-deck-for-duolingo-chinese/pulls and click the button "New pull request", then submit the pull request to us ([tutorial about pull requests](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
 10. We will review your contribution, merge it into our repository, and re-generate the apkg file. Thanks! :-)
 
-# Copyright guidelines
+# Copyright rules
 
 - This deck contains only words, not sentences. The reason is that sentences can be considered as intellectual property, whereas a list of words can not. So, please do not add sentences from Duolingo or from elsewhere.
 - Do not copy English translations from any other source (and especially, not from Duolingo). Just simplify or fix the existing definitions.
